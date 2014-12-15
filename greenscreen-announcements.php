@@ -51,6 +51,11 @@ function render_greenscreen_announcements() {
 		)
 	));
 
+	// X-Frame-Options Header
+	if (function_exists('header_remove')) {
+		header_remove('X-Frame-Options');
+	}
+
 	?>
 
 	<!DOCTYPE html>
