@@ -3,7 +3,7 @@
 Plugin Name: Greenscreen Announcements
 Plugin URI: http://www.indyhall.org/
 Description: Greenscreen Announcements is a Wordpress plugin to display announcements on a TV
-Version: 0.1
+Version: 0.2
 Author: Chris Morrell
 Author URI: http://cmorrell.com
 License: GPL2
